@@ -1,6 +1,6 @@
 ### Bank Account Output Test Cases
 
-#### case 1
+#### output 1
 ```text
 Press s to Start s
 SELECT TRANSACTION: 1 for deposit, 2 for withdrawal, 3 for balance inquiry: 1
@@ -9,7 +9,7 @@ Enter the amount to be deposited: 1000
 Transaction done successfully! Thank you for banking
 ```
 
-#### case 2
+#### output 2
 ```text
 Press s to Start s
 SELECT TRANSACTION: 1 for deposit, 2 for withdrawal, 3 for balance inquiry:  3
@@ -17,7 +17,7 @@ Enter your PIN:  451
 Balance: 1000
 ```
 
-#### case 3
+#### output 3
 ```text
 Press s to Start s
 SELECT TRANSACTION: 1 for deposit, 2 for withdrawal, 3 for balance inquiry:  2
@@ -26,7 +26,7 @@ Enter the amount to be withdrawn :  200
 Withdrawn successfully!
 ```
 
-#### case 4
+#### output 4
 ```text
 Press s to Start s
 SELECT TRANSACTION: 1 for deposit, 2 for withdrawal, 3 for balance inquiry:  3
@@ -34,7 +34,7 @@ Enter your PIN:  451
 Balance: 800
 ```
 
-#### case 5
+#### output 5
 ```text
 Press s to Start s
 SELECT TRANSACTION: 1 for deposit, 2 for withdrawal, 3 for balance inquiry:  2
@@ -43,20 +43,20 @@ Enter the amount to be withdrawn :  1500
 Insufficient Balance! Transaction Cancelled
 ```
 
-#### case 6
+#### output 6
 ```text
 Press s to Start no
 Exiting..
 ```
 
-#### case 7
+#### output 7
 ```text
 Press s to Start s
 SELECT TRANSACTION: 1 for deposit, 2 for withdrawal, 3 for balance inquiry:  4
 Invalid option! Transaction cancelled
 ```
 
-#### case 8
+#### output 8
 ```text
 Press s to Start s
 SELECT TRANSACTION: 1 for deposit, 2 for withdrawal, 3 for balance inquiry:  1
