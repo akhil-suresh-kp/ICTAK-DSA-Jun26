@@ -1,0 +1,99 @@
+### WeatherData Output Cases
+
+#### output 1:
+
+```text
+Enter the city:  Kochi
+Today's Weather Bulletin: 
+
+Humidity (in %): 95
+Rain Amount (in mm): 15
+Expect light to moderate rainfall with occassional downpours
+Temperature (in °C): 30
+Pleasant to warm temperature expected
+Wind Speed (in km/h): 11
+Light to moderate winds expected
+Air Quality: 44
+Good Air Quality
+Average Temperature (in °C) for the next five days: 29.6
+Average Humidity (in %) for the next five days: 94.0
+```
+
+#### output 2:
+
+```text
+Enter the city:  Mumbai
+Today's Weather Bulletin: 
+
+Humidity (in %): 84
+Rain Amount (in mm): 40
+Expect heavy downpours. Watch for flooding!
+Temperature (in °C): 28
+Pleasant to warm temperature expected
+Wind Speed (in km/h): 15
+Expect strong winds due to POTENTIAL THUNDERSTORMS
+Air Quality: 60
+Satisfiable Air Quality
+Average Temperature (in °C) for the next five days: 28.8
+Average Humidity (in %) for the next five days: 84.0
+```
+
+
+
+#### output 3:
+
+```text
+Enter the city:  Dubai
+Today's Weather Bulletin: 
+
+Humidity (in %): 45
+Rain Amount (in mm): 0
+It is expected to be a pleasant sunny day, with possibility of mild clouds
+Temperature (in °C): 41
+Severe heat climate. Stay hydrated and sheltered as much as possible.
+Wind Speed (in km/h): 18
+Light to moderate winds expected
+Air Quality: 95
+Satisfiable Air Quality
+Average Temperature (in °C) for the next five days: 41.8
+Average Humidity (in %) for the next five days: 44.0
+```
+
+#### output 4:
+
+```text
+Enter the city:  Muscat
+Today's Weather Bulletin: 
+
+Humidity (in %): 55
+Rain Amount (in mm): 0
+It is expected to be a pleasant sunny day, with possibility of mild clouds
+Temperature (in °C): 38
+Hot climate due to ongoing heatwave
+Wind Speed (in km/h): 16
+Light to moderate winds expected
+Air Quality: 70
+Satisfiable Air Quality
+Average Temperature (in °C) for the next five days: 38.8
+Average Humidity (in %) for the next five days: 54.0
+```
+
+#### output 5:
+
+```text
+Enter the city:  Madrid
+Today's Weather Bulletin: 
+
+Humidity (in %): 40
+Rain Amount (in mm): 0
+It is expected to be a pleasant sunny day, with possibility of mild clouds
+Temperature (in °C): 33
+Warm climate due to a heatwave that is expected to peak in coming days
+Wind Speed (in km/h): 13
+Light to moderate winds expected
+Air Quality: 38
+Good Air Quality
+Average Temperature (in °C) for the next five days: 33.8
+Average Humidity (in %) for the next five days: 41.0
+```
+
